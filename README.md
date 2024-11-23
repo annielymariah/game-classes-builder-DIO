@@ -57,7 +57,7 @@ git clone https://github.com/annielymariah/gameClassesBuilderDIO.git
 
 ### Navigate to the project directory:
 ```bash
-cd heroAdventureGame
+cd gameClassesBuilderDIO
 ```
 
 ### Run the script:
