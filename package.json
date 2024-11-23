@@ -1,0 +1,13 @@
+{
+  "name": "gameclassesbuilderdio",
+  "version": "1.0.0",
+  "description": "This repository contains the solution to the \"Escrevendo as classes de um Jogo\" challenge proposed by DIO.me. The project involves creating a generic Hero class with properties like name, age, and types. The class also includes some methods based on the hero's type, showcasing key programming concepts like classes, objects, and decision structures.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module", 
+  "license": "ISC"
+}
