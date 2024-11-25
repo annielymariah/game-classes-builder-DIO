@@ -43,7 +43,7 @@ class Character {
             case "monk":
                 attack = "martial arts";
                 break;
-            case "Ninja":
+            case "ninja":
                 attack = "shuriken";
                 break;
             default:
