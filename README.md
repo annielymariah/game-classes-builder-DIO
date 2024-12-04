@@ -52,12 +52,12 @@ Make sure Node.js is installed on your computer. If not, download it from the of
 
 ### Clone this repository:
 ```bash
-git clone https://github.com/annielymariah/gameClassesBuilderDIO.git
+git clone https://github.com/annielymariah/game-classes-builder-DIO.git
 ```
 
 ### Navigate to the project directory:
 ```bash
-cd gameClassesBuilderDIO
+cd game-classes-builder-DIO
 ```
 
 ### Run the script:
